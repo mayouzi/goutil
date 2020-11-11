@@ -6,7 +6,7 @@ import (
 	"os/exec"
 	"syscall"
 
-	"github.com/ouqiang/goutil/slice"
+	"github.com/mayouzi/goutil/slice"
 )
 
 // Daemon  守护进程

@@ -1,4 +1,4 @@
-module github.com/ouqiang/goutil
+module github.com/mayouzi/goutil
 
 go 1.12
 

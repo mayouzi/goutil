@@ -1,7 +1,7 @@
 // Package version 版本
 package version
 
-import "github.com/ouqiang/goutil"
+import "github.com/mayouzi/goutil"
 
 var (
 	// 应用版本

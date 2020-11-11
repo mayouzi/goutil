@@ -28,7 +28,7 @@ import (
 
 	"errors"
 
-	"github.com/ouqiang/goutil"
+	"github.com/mayouzi/goutil"
 )
 
 func TestRequest_Get(t *testing.T) {
